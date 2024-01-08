@@ -15,4 +15,3 @@ Este é um projeto em que pude relembrar meus conhecimentos sobre HTML e aplicar
 
 - Responsividade
 
-
