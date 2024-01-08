@@ -87,7 +87,7 @@ margin: 55px 0px 0px 85px;
 .link-menu{ display: none;}
   #button-header{
     position:fixed;
-    right: 33px;
+    right: 15px;
     top: 16px;
     background: linear-gradient(0deg, #4CB538, #4CB538),
     linear-gradient(0deg, #6FBF44, #6FBF44);
@@ -97,19 +97,23 @@ margin: 55px 0px 0px 85px;
   }
 
     p{ 
-        font-size: 20px;
+        font-size: 22px;
         font-weight: 100;
         text-align: center;
-        margin: 40px 15px 0 30px;
+        margin-top: 30px;
+        margin-left: 19px;
+        margin-bottom: 0;
         line-height: 2.2;
-        padding: 0 45px;
+        padding-right: 50px;
+        padding-left: 50px;
         }
 #logo {
-    width: 312px;
-    height: 288px;
-    margin-left: 60px;
+    width: 315px;
+    height: 290px;
+margin-top: 0;
+    margin-left: 65px;
     position: fixed;
-    bottom: 145px
+    bottom: 90px;
 }
 
 #fim {
@@ -118,19 +122,19 @@ margin: 55px 0px 0px 85px;
     line-height: 70px;
     letter-spacing: 1px;
     margin-left: 170px;
-    margin-top: 22px;
+    margin-top: 0;
 
 }
 
 h1 {
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 35px;
     text-align: center;
     margin-right: 0px;
-    margin-top: 90px;
+    margin-top: 50px;
     margin-bottom: 0;
-    margin-left: 96px;
+    margin-left: 80px;
     width: 278px;
 }
 }
