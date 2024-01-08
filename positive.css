@@ -100,14 +100,14 @@ margin: 55px 0px 0px 85px;
         font-size: 20px;
         font-weight: 100;
         text-align: center;
-        margin: 20px 15px 0 30px;
+        margin: 55px 15px 0 30px;
         line-height: 2.2;
         padding: 0 45px;
         }
 #logo {
     width: 312px;
     height: 288px;
-    margin: 78px;
+    margin-left: 50px;
     position: fixed;
     bottom: 75px
 }
@@ -118,7 +118,7 @@ margin: 55px 0px 0px 85px;
     line-height: 70px;
     letter-spacing: 1px;
     margin-left: 170px;
-    margin-top: 0;
+    margin-top: 22px;
 
 }
 
